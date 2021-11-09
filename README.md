@@ -26,7 +26,7 @@ Here's some words about the book _One Hundred Years..._.
 
 Do you want to [see something fun][a fun place]?  
 Well, do I have [the website for you][another fun place]!    
-[a fun place]: www.zombo.com
+[a fun place]: www.zombo.com  
 [another fun place]: www.stumbleupon.com
 <br>
 ### Lesson 4
